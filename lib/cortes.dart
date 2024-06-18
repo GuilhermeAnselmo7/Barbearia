@@ -19,7 +19,7 @@ class Cortes extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      backgroundColor: Colors.orange[100], // Background color
+      backgroundColor: Colors.orange[100],
       appBar: AppBar(
         backgroundColor: Colors.orange[100],
         elevation: 0,
